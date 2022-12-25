@@ -1,0 +1,27 @@
+{
+  "name": "new-folder-1",
+    "version": "1.0.0",
+    "description": "Implement Password Reset In Node.js. In this Application, we'll go over how to create a forgot your password feature using Express, MongoDB, Passport and Sendgrid. We will build a complete application.",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index..js",
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "Sagar Dere",
+    "license": "MIT",
+    "dependencies": {
+      "bcryptjs": "^2.4.3",
+      "connect-mongodb-session": "^2.0.3",
+      "cookie-parser": "^1.4.3",
+      "express": "^4.16.3",
+      "express-flash": "0.0.2",
+      "express-session": "^1.15.6",
+      "jade": "~1.11.0",
+      "mongoose": "^4.13.7",
+      "passport": "^0.4.0",
+      "passport-local": "^1.0.0",
+      "sendgrid": "1.6.0",
+      "serve-favicon": "^2.4.5"
+    }
+  
+}
